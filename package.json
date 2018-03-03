@@ -1,0 +1,24 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "hashmap": "^2.3.0",
+    "jsonwebtoken": "^8.1.0",
+    "mongodb": "^2.2.33",
+    "nodemon": "^1.12.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nize",
+  "license": "ISC"
+}
