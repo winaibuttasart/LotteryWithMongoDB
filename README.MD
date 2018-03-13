@@ -1,6 +1,6 @@
 # API ตรวจหวยด้วย NodeJS +  MongoDB
 
-ทำ WebScarab จากเว็บไซต์ [กระปุกดอทคอม](http://lottery.kapook.com/history.html) แล้วทำการบันทึกข้อมูลลงฐานข้อมูล (MongoDB) ด้วย NodeJS
+ทำ WebScrap จากเว็บไซต์ [กระปุกดอทคอม](http://lottery.kapook.com/history.html) แล้วทำการบันทึกข้อมูลลงฐานข้อมูล (MongoDB) ด้วย NodeJS
 สรุปรวม demo code
   - ทำการร้องขอการเชื่อมต่อ HTTP (HTTP requests) ผ่านโมดูล [request](https://www.npmjs.com/package/request)
   - ทำการแปลง tag html โดยใช้ [cheerio](https://github.com/cheeriojs/cheerio)
